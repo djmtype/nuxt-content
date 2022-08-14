@@ -1,6 +1,6 @@
-# Nuxt 3 Hello World Starter
+# Nuxt Content – Hello World Starter
 
-**Because `npx nuxi init content-app -t content` doesn't work!**
+**A Nuxt v3, Content v2 starter because `npx nuxi init content-app -t content` is failing**
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
