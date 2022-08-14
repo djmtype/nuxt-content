@@ -1,6 +1,8 @@
 # Nuxt Content – Hello World Starter
 
-**A Nuxt v3, Content v2 starter because `npx nuxi init content-app -t content` is failing**
+**A Nuxt v3, Content v2 starter because `npx nuxi init content-app -t content` is failing!** 
+
+This template ships with no sh!t, based on the [Hello World example](https://content.nuxtjs.org/examples/essentials/hello-world) sans the Nuxt UI. 
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
